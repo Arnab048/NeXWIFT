@@ -10,6 +10,7 @@ module.exports = {
 
       colors: {
         'red-pigment': '#EB1724',
+        'cadmiumYellow': '#FFF501 ',
       },
 
     },
